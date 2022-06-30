@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Module 101-nqueens
-Define class Square
+This module contains an algorithm that resolves the N-Queen puzzle
+using backtracking
 """
 
 
