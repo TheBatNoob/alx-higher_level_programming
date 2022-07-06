@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-Module 2-is_same_class
-Define function that returns True/False
+""" Function that returns True/False if obj is a type of a_class
 """
 
 
